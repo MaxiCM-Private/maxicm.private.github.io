@@ -37,16 +37,6 @@ h3, h4, h5, h6 {line-height:1.5 !important}
     font-size:inherit !important; color: rgb(69, 68, 68);
 }
 
-
-/* Contact */
-
-ul#contact-info .icon {font-size:20px;float:left;line-height:25px;margin-right:10px;}
-
-ul#contact-info .field {font-weight:bold;}
-
-ul#contact-info {list-style:none;}
-
-
 /* Grid */
 
 #tiles li {
